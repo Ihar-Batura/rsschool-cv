@@ -1,21 +1,23 @@
 # Ihar Batura 
 
-## Junior Frontend Developer
+## Junior Front-End Developer
 ****
 
 ### Contact information:
-* Phone: +375 44 733-15-82 
+* Mogilev, Belarus 
 * E-mail: A17331582@gmail.com
 * GibHab: Ihar-Batura 
+* Discord: IgorBat#9644
 
 ### About Me
-My goal is to gain knowledge in the field of front-end development. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+" I like programming. It is fascinating and interesting. My goal is to gain knowledge in the field of front-end development. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills. I want to learn a pure JavaScript and learn the React library. I will be glad to join the creation of open source projects. I would like to work under the guidance of an experienced developer to gain practical experience. "
 
 ### Skills
 * HTML
-* CSS
+* CSS3/Sass
 * JavaScript (Basic)
-* Git
+* Git, Github
+* Figma
 
 ### Code Examples
 ```
@@ -29,4 +31,6 @@ function sum (a, b) {
 
 
 ### Languages
+* Russian
+* Ukrainian
 * English - A2 (B1 in process…)
